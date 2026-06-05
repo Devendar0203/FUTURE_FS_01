@@ -36,15 +36,15 @@ export const About: React.FC = () => {
           {/* Stats Bar */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 py-6 border-y border-slate-200/40 dark:border-slate-800/40 mt-10">
             <div className="text-left">
-              <span className="text-3xl md:text-4xl font-mono font-black text-primary block">3+</span>
+              <span className="text-3xl md:text-4xl font-mono font-black text-primary block">2+</span>
               <span className="text-[10px] md:text-xs font-mono font-semibold text-slate-500 dark:text-slate-400 uppercase tracking-wider">Years Coding</span>
             </div>
             <div className="text-left">
-              <span className="text-3xl md:text-4xl font-mono font-black text-primary block">10+</span>
+              <span className="text-3xl md:text-4xl font-mono font-black text-primary block">5</span>
               <span className="text-[10px] md:text-xs font-mono font-semibold text-slate-500 dark:text-slate-400 uppercase tracking-wider">Projects Built</span>
             </div>
             <div className="text-left">
-              <span className="text-3xl md:text-4xl font-mono font-black text-primary block">150+</span>
+              <span className="text-3xl md:text-4xl font-mono font-black text-primary block">100</span>
               <span className="text-[10px] md:text-xs font-mono font-semibold text-slate-500 dark:text-slate-400 uppercase tracking-wider">LeetCode Solves</span>
             </div>
             <div className="text-left">

@@ -204,7 +204,7 @@ export const Hero: React.FC = () => {
             {/* Main Avatar Container */}
             <div className="absolute inset-4 rounded-full overflow-hidden border-4 border-slate-100 dark:border-slate-900 shadow-2xl glass-card">
               <img
-                src="/images/profile/devendar.png"
+                src="/images/profile/devendar.jpg"
                 alt={personalInfo.name}
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
                 onError={(e) => {
