@@ -4,6 +4,8 @@ A modern, production-ready developer portfolio website built using **React 19**,
 
 The design is recruiter-friendly, responsive, supports smooth dark and light themes, features confetti triggers, and highlights technical architectures.
 
+🔗 **Live Link:** [portfolio-three-beryl-p34hl5xw9i.vercel.app](https://portfolio-three-beryl-p34hl5xw9i.vercel.app/)
+
 ## 🚀 Key Features
 
 1. **Modern Asymmetric Hero Section**: Features custom typing effects, glowing hover effects, profile avatar, and instant resume download / external profiles links.
@@ -11,15 +13,14 @@ The design is recruiter-friendly, responsive, supports smooth dark and light the
 3. **Animated Skills Grid**: Dynamic tab-based filtering across categories (Languages, Frontend, Backend, Database, Cloud & Tools, AI, and Others) with animated progress bars.
 4. **Professional Timeline**: Vertical timeline charting the internship experience at Pinnacle Labs.
 5. **Detailed Projects Section**:
-   - **TaskFlow (Task Manager)**: Includes screenshot slider, tech badges, live link, code repository link, and an **interactive System Architecture Flowchart**.
-   - **Plant Disease AI (Deep Learning)**: Includes screenshot slider, code repository link, and an **interactive AI Diagnosis pipeline diagram**.
+   - **TaskFlow (Task Manager)**: Includes screenshot slider, tech badges, live link, code repository link, and an *interactive System Architecture Flowchart*.
+   - **Plant Disease AI (Deep Learning)**: Includes screenshot slider, code repository link, and an *interactive AI Diagnosis pipeline diagram*.
    - Dual video-preview popup modals with fail-safe visual warnings.
 6. **Certifications credentials**: Professional grids displaying Microsoft, AWS, IBM, and Cisco credentials with custom verify badges and links.
 7. **Curriculum Vitae Preview**: A high-fidelity CSS-styled preview resume card that mimics a printed CV, complete with a PDF download link.
-8. **Validating Contact Form**: Custom form validation with loading spin states and a **canvas-confetti particle burst** upon successful message delivery.
+8. **Validating Contact Form**: Custom form validation with loading spin states and a *canvas-confetti particle burst* upon successful message delivery.
 9. **Meet the Developer Section**: Special circular framed photo at the bottom of the page displaying a custom signature quote.
 10. **Site-wide dark / light mode toggle** with smooth spring-loaded rotations, sticky navigation section tracking, and back-to-top integrations.
-
 ## 📸 Project Previews
 
 ### 1. TaskFlow - Full Stack Task Management System
